@@ -1,2 +1,2 @@
 # LoRA_complexity
-Task Complexity Analysis for Rank Prediction
+Analysis of LoRA matrices based on class defined complexity. 
